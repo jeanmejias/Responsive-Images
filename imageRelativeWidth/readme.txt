@@ -1,0 +1,1 @@
+Learnt powerful CSS3 calc() by using it to resize images in responsive way.

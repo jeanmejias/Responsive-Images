@@ -1,0 +1,26 @@
+html {
+    display: flex;
+    font-family: "Apple Symbols";
+    background-color: #fff;
+}
+
+h1 {
+    font-size: 20em;
+    margin: 0;
+    text-align: center;
+}
+
+ul {
+    font-family: "Nova Oval";
+    font-size: 1.4em;
+    color: #888;
+    margin: 0 1.6em 0 1.6em;
+    padding: 0;
+}
+
+p {
+    font-family: "Miltonian Tattoo";
+    font-size: 1.8em;
+    color: #333;
+    margin: 0 1.1em 0 1.1em;
+}
